@@ -1,4 +1,22 @@
-.row{
+#img-slider{
    background-color: #FEEAE9;
    margin-top: 30px;
+}
+#bag{
+   background-color: rgba(255, 88, 155, 1);
+}
+#bag img{
+   width: 90px;
+}
+#watch{
+   background-color: rgba(255, 156, 53, 1);
+}
+#watch img{
+   width: 90px;
+}
+#shoes{
+   background-color: rgba(66, 137, 255, 1);
+}
+#shoes img{
+   width: 90px;
 }
